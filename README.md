@@ -9,7 +9,7 @@ Escolhemos um dos projetos sugeridos pelo professor, que consiste em um sistema 
 gerenciamento de um catálogo pessoal de entreterimento, utilizando persistência de dados local com arquivos JSON.
 O sistema permite que o usuário gerencie seus filmes, livros, músicas e séries favoritas através de 
 um menu interativo no terminal. Podendo, com isso, buscar as mídias já selecionadas e adicionar mídias novas, 
-com os seus respectivios anos de lançamento, nota, gênero etc.
+com os seus respectivios anos de lançamento, gênero etc.
 
 ---
 
@@ -17,7 +17,7 @@ com os seus respectivios anos de lançamento, nota, gênero etc.
 
 O sistema conta com as seguintes opções:
 
-1. Cadastrar: Adiciona novos itens validando a categoria (`Livro`, `Filme`, `Música`, `Série`),
+1. Cadastrar: Adiciona novos itens validando a categoria (`Livro`, `Filme`),
 aplicando formatação automática nos textos (Iniciais Maiúsculas) e salvando o ano de lançamento com suas notas.
 2. Buscar: Permite pesquisar no catálogo utilizando 4 filtros diferentes:
    - Por Categoria;
